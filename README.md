@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Citrumboo
+👋 Hi, I’m Takesaki Yumi @Citrumboo. Yuzu Takezaki is my handle.
 
 <!---
 - 👀 I’m interested in ...
