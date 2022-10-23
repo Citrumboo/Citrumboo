@@ -2,11 +2,17 @@
 
 I’m Takesaki Yumi @Citrumboo. Takezaki Yumi is my handle.
 
+## :clipboard: Status
+
 <!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Citrumboo&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Citrumboo/)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Citrumboo&count_private=true&show_icons=true" />
+</a>
 
 <!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Citrumboo&layout=compact&theme=tokyonight)](https://github.com/Citrumboo/)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Citrumboo" />
+</a>
 
 <!---
 - 👀 I’m interested in ...
