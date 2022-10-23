@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Takesaki Yumi.
+#  Hi, I’m Takesaki Yumi. 👋
 
 I’m Takesaki Yumi @Citrumboo. Takezaki Yumi is my handle.  
 
