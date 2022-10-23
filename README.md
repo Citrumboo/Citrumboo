@@ -1,6 +1,10 @@
 # 👋 Hi, I’m Takesaki Yumi.
 
-I’m Takesaki Yumi @Citrumboo. Takezaki Yumi is my handle.
+I’m Takesaki Yumi @Citrumboo. Takezaki Yumi is my handle.  
+
+<a href="https://twitter.com/Citrumboo">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=plastic">
+</a>
 
 ## :clipboard: Status
 
