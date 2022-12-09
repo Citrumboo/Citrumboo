@@ -1,7 +1,7 @@
 #  Hi, I’m Takesaki Yumi. 👋
 
 I’m Takesaki Yumi @Citrumboo. Takezaki Yumi is my handle.  
-pronoun: 
+pronoun: She/Her/Hers.  
 
 [![Twitter](https://img.shields.io/badge/Twitter-Citrumboo-1DA1F2?style=flat-square&logo=twitter&style=plastic)](https://twitter.com/Citrumboo)
 [![GitHub](https://img.shields.io/badge/GitHub-Citrumboo-000?style=flat-square&logo=github&style=plastic)](https://github.com/Citrumboo)
