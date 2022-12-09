@@ -2,13 +2,11 @@
 
 I’m Takesaki Yumi @Citrumboo. Takezaki Yumi is my handle.  
 
-<a href="https://twitter.com/Citrumboo" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Twitter-Citrumboo-1DA1F2?style=flat-square&logo=twitter&style=plastic">
-</a>
 
-<a href="[https://twitter.com/Citrumboo](https://zenn.dev/citrumboo)" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Zenn-Citrumboo-lightgrey?style=flat-square&logo=zenn">
-</a>
+[![Twitter](https://img.shields.io/badge/Twitter-Citrumboo-1DA1F2?style=flat-square&logo=twitter&style=plastic)](https://twitter.com/Citrumboo)
+[![GitHub](https://img.shields.io/badge/GitHub-Citrumboo-000?style=flat-square&logo=github&style=plastic)](https://github.com/Citrumboo)
+[![Zenn](https://img.shields.io/badge/Zenn-Citrumboo-3EA8FF?style=flat-square&logo=zenn)](https://zenn.dev/citrumboo)
+
 
 ## :clipboard: Status
 
