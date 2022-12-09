@@ -9,10 +9,8 @@ pronoun: She/Her/Hers.
 
 ## Areas of interest and technology
 - Network technology
-- Low layer
-- Operational system development
-- Software development
-- Web application development
+- Low layer & Operational system development
+- Software development & Web application development
 - Artificial intelligence
 - Metaverse
 - Cyber security
