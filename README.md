@@ -37,13 +37,3 @@ pronoun:
 Citrumboo/Citrumboo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-  const links = document.querySelectorAll('a[href^=http]');
-  for (let i = 0; i < links.length; ++i) {
-    links[i].setAttribute('target', '_blank');
-    links[i].setAttribute('rel', 'noopener');
-  }
-});
-</script>
