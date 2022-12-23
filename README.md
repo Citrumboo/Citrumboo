@@ -8,8 +8,10 @@ pronoun: She/Her/Hers.
 [![Zenn](https://img.shields.io/badge/Zenn-Citrumboo-3EA8FF?style=flat-square&logo=zenn)](https://zenn.dev/citrumboo)
 
 ## Areas of interest and technology
-- Network technology
+
 - Low layer & Operational system development
+- Ethics, philosophy and psychology in the information sector
+- Network technology
 - Software development & Web application development
 - Artificial intelligence
 - Metaverse
